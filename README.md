@@ -10,7 +10,7 @@ Deteksi dan klasifikasi objek secara real-time. Pada project ini saya menggunaka
 
 ## Dependensi
 
-Python3, tensorflow 1.0, numpy, opencv 3.
+Python3, tensorflow 2.4.0, numpy, opencv 3.
 
 
 ### Mulai
