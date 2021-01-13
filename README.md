@@ -2,6 +2,7 @@
 
 **Nama  : Hisyam Zulkarnain F\
 NRP   : 05311840000019**
+**Judul : Sistem Deteksi Helm menggunakan Yolo**
 ***
 ## Pengenalan
 
